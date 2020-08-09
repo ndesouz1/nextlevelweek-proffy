@@ -2,10 +2,10 @@
 <p align='center'><img width='300' src="./images/proffy-git.png"/></p>
 <h1 align='center'>Proffy</h1>
 <p align='center'>
-<img src="https://img.shields.io/github/repo-size/ndesouz1/proffy-nextlevelweek">
-<img src="https://img.shields.io/github/languages/count/ndesouz1/proffy-nextlevelweek">
-<img src="https://img.shields.io/github/last-commit/ndesouz1/proffy-nextlevelweek">
-<img src="https://img.shields.io/github/license/ndesouz1/proffy-nextlevelweek">
+<img src="https://img.shields.io/github/repo-size/ndesouz1/nextlevelweek-proffy">
+<img src="https://img.shields.io/github/languages/count/ndesouz1/nextlevelweek-proffy">
+<img src="https://img.shields.io/github/last-commit/ndesouz1/nextlevelweek-proffy">
+<img src="https://img.shields.io/github/license/ndesouz1/nextlevelweek-proffy">
 </p>
 
 ## 🔖 Descrição
