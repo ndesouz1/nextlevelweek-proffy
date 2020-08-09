@@ -1,4 +1,4 @@
-<p align='center'><img width='300' src="./images/proffy-git.png"/></p>
+<p align='center'><img width='300' src="./public/images/proffy-git.png"/></p>
 <h1 align='center'>Proffy</h1>
 <p align='center'>
 <img src="https://img.shields.io/github/repo-size/ndesouz1/nextlevelweek-proffy">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🔖 Descrição
+## 📖 Descrição
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 3 a 9 de Agosto de 2020.
 
@@ -39,8 +39,8 @@ A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, c
 
 --- 
 
-<h3>🖼 Layout</h3>
-<img src="/images/proffy-layout.PNG">
+<h3>🖥 Layout</h3>
+<img src="/public/images/proffy-layout.PNG">
 
 --- 
 
